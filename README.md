@@ -1,4 +1,5 @@
-Conversor de imagens PNG para ICO
+Conversor de imagens PNG para ICO.
+
 Este é um aplicativo de desktop simples que converte imagens PNG para o formato ICO usando a biblioteca Tkinter do Python.
 
 Instalação
