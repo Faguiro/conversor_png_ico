@@ -1,6 +1,7 @@
 # Arquivos gerados pela IDE
 *.pyc
 __pycache__/
+.spec
 
 # Pasta virtual environment
 qt_venv/
