@@ -1,0 +1,13 @@
+# Arquivos gerados pela IDE
+*.pyc
+__pycache__/
+
+# Pasta virtual environment
+qt_venv/
+tk_venv/
+venv/
+old/
+
+#Pasta de compilação
+build/
+dist/
